@@ -1,4 +1,6 @@
-body {
-  background-color: blue;
-  color: yellowgreen;
+.col-3 {
+  width: 32%;
+  float: left;
+  padding: 0 15px;
+  margin-bottom: 30px;
 }

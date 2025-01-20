@@ -7,3 +7,6 @@ if (!defined('_VERSION')) {
 
 
 require get_template_directory() . '/inc/_custom.php';
+
+//Post types
+require get_template_directory() . '/inc/_post-types.php';
