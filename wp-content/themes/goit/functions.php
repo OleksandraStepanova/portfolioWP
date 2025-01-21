@@ -11,3 +11,6 @@ require get_template_directory() . '/inc/_scripts.php';
 
 // Post types
 require get_template_directory() . '/inc/_post-types.php';
+
+//Register menus
+require get_template_directory() . '/inc/_menus.php';
